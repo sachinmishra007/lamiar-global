@@ -52,7 +52,14 @@
         "backgroundColor": "0xff552244",
         "articleCount": 150,
         "techImageUrl": "http://pngimg.com/uploads/github/github_PNG58.png",
-        "techName": "Github Actions",
+        "techName": "Git Hub",
+        "techDescription": "Commands"
+    },
+    {
+        "backgroundColor": "0xff552244",
+        "articleCount": 30,
+        "techImageUrl": "https://www.itopstimes.com/wp-content/uploads/2019/04/AHcBc6EG_400x400.jpg",
+        "techName": "Helm",
         "techDescription": "Commands"
     }
 ]
