@@ -1,0 +1,43 @@
+{
+    "technology": {
+        "technologyIconPath": "assets/images/k8s.png",
+        "title1": "Kubernetes Cheat",
+        "title2": "Sheet",
+        "isHeader": true
+    },
+    "data": [
+        {
+            "mainTitle": "What is kubernetes ?",
+            "isVisible": true,
+            "label": "overview of k8s",
+            "cardContent": [
+                {
+                    "subheaderTitle": "Overview",
+                    "openUrl": null,
+                    "image": {
+                        "height": null,
+                        "width": null,
+                        "imageUrl": "https://cheatsheet.dennyzhang.com/wp-content/uploads/2018/08/kubernetes.png"
+                    },
+                    "cardData": [
+                        "Kubernetes is a portable, extensible, open-source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. It has a large, rapidly growing ecosystem. Kubernetes services, support, and tools are widely available.",
+                        "Kubernetes is a portable, extensible, open-source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. It has a large, rapidly growing ecosystem. Kubernetes services, support, and tools are widely available.",
+                        "Test Example with FLutter"
+                    ]
+                },
+                {
+                    "subheaderTitle": "Overview1",
+                    "openUrl": null,
+                    "image": {
+                        "height": null,
+                        "width": null,
+                        "imageUrl": "https://cheatsheet.dennyzhang.com/wp-content/uploads/2018/08/kubernetes.png"
+                    },
+                    "cardData": [
+                        "Kubernetes is a portable, extensible, open-source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. It has a large, rapidly growing ecosystem. Kubernetes services, support, and tools are widely available."
+                    ]
+                }
+            ]
+        }
+    ]
+}
