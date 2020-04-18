@@ -7,14 +7,14 @@
         "techDescription": "Content"
     },
     {
-        "backgroundColor": "0xff442727",
+        "backgroundColor": "0xff552244",
         "articleCount": 50,
         "techImageUrl": "https://www.pinclipart.com/picdir/middle/102-1024697_related-wallpapers-node-js-logo-png-clipart.png",
         "techName": "Node Js",
         "techDescription": "Articles"
     },
     {
-        "backgroundColor": "0xff900c3f",
+        "backgroundColor": "0xff552244",
         "articleCount": 50,
         "techImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png",
         "techName": "Angular 5",
@@ -25,6 +25,34 @@
         "articleCount": 100,
         "techImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1280px-Npm-logo.svg.png",
         "techName": "npm",
+        "techDescription": "Commands"
+    },
+    {
+        "backgroundColor": "0xff552244",
+        "articleCount": 80,
+        "techImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png",
+        "techName": "Python",
+        "techDescription": "Algorithms"
+    },
+    {
+        "backgroundColor": "0xff552244",
+        "articleCount": 150,
+        "techImageUrl": "https://i.dlpng.com/static/png/6846392_preview.png",
+        "techName": "Docker",
+        "techDescription": "Commands"
+    },
+    {
+        "backgroundColor": "0xff552244",
+        "articleCount": 250,
+        "techImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png",
+        "techName": "Kubernetes",
+        "techDescription": "Commands"
+    },
+    {
+        "backgroundColor": "0xff552244",
+        "articleCount": 150,
+        "techImageUrl": "http://pngimg.com/uploads/github/github_PNG58.png",
+        "techName": "Github Actions",
         "techDescription": "Commands"
     }
 ]
