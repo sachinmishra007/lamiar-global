@@ -5,5 +5,26 @@
         "techImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png",
         "techName": "Angular JS",
         "techDescription": "Content"
+    },
+    {
+        "backgroundColor": "0xff442727",
+        "articleCount": 50,
+        "techImageUrl": "https://www.pinclipart.com/picdir/middle/102-1024697_related-wallpapers-node-js-logo-png-clipart.png",
+        "techName": "Node Js",
+        "techDescription": "Articles"
+    },
+    {
+        "backgroundColor": "0xff900c3f",
+        "articleCount": 50,
+        "techImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png",
+        "techName": "Angular 5",
+        "techDescription": "Elemments"
+    },
+    {
+        "backgroundColor": "0xff552244",
+        "articleCount": 100,
+        "techImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1280px-Npm-logo.svg.png",
+        "techName": "npm",
+        "techDescription": "Commands"
     }
 ]
