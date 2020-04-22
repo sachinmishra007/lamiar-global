@@ -4,62 +4,71 @@
         "articleCount": 100,
         "techImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png",
         "techName": "Angular JS",
-        "techDescription": "Content"
+        "techDescription": "Content",
+        "serviceUrl": "https://raw.githubusercontent.com/sachinmishra007/lamiar-global/master/kubernetes.json"
     },
     {
         "backgroundColor": "0xff552244",
         "articleCount": 50,
         "techImageUrl": "https://www.pinclipart.com/picdir/middle/102-1024697_related-wallpapers-node-js-logo-png-clipart.png",
         "techName": "Node Js",
-        "techDescription": "Articles"
+        "techDescription": "Articles",
+        "serviceUrl": null
     },
     {
         "backgroundColor": "0xff552244",
         "articleCount": 50,
         "techImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png",
         "techName": "Angular 5",
-        "techDescription": "Elemments"
+        "techDescription": "Elemments",
+        "serviceUrl": null
     },
     {
         "backgroundColor": "0xff552244",
         "articleCount": 100,
         "techImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1280px-Npm-logo.svg.png",
         "techName": "npm",
-        "techDescription": "Commands"
+        "techDescription": "Commands",
+        "serviceUrl": null
     },
     {
         "backgroundColor": "0xff552244",
         "articleCount": 80,
         "techImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png",
         "techName": "Python",
-        "techDescription": "Algorithms"
+        "techDescription": "Algorithms",
+        "serviceUrl": null
     },
     {
         "backgroundColor": "0xff552244",
         "articleCount": 150,
         "techImageUrl": "https://i.dlpng.com/static/png/6846392_preview.png",
         "techName": "Docker",
-        "techDescription": "Commands"
+        "techDescription": "Commands",
+        "serviceUrl": null
     },
     {
         "backgroundColor": "0xff552244",
         "articleCount": 250,
         "techImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png",
         "techName": "Kubernetes",
-        "techDescription": "Commands"
+        "techDescription": "Commands",
+        "serviceUrl": null
     },
     {
         "backgroundColor": "0xff552244",
         "articleCount": 150,
         "techImageUrl": "http://pngimg.com/uploads/github/github_PNG58.png",
         "techName": "Git Hub",
-        "techDescription": "Commands"
+        "techDescription": "Commands",
+        "serviceUrl": null
     },
     {
         "backgroundColor": "0xff552244",
         "articleCount": 30,
         "techImageUrl": "https://www.itopstimes.com/wp-content/uploads/2019/04/AHcBc6EG_400x400.jpg",
         "techName": "Helm",
-        "techDescription": "Commands"
+        "techDescription": "Commands",
+        "serviceUrl": null
     }
 ]
