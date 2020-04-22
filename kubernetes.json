@@ -46,7 +46,7 @@
             "cardContent": [
                 {
                     "subheaderTitle": "Overview",
-                    "openUrl": null,
+                    "openUrl": "https://kubernetes.io/docs/concepts/storage/volumes/",
                     "image": {
                         "height": null,
                         "width": null,
